@@ -21,6 +21,7 @@ def convert(list):
     return(res)
     
 ###############################
+print("Non Restoring Division")
 print("please enter value as Q / M :")
 q = int(input("Enter value of Q :"))
 m = int(input("Enter value of M :"))
